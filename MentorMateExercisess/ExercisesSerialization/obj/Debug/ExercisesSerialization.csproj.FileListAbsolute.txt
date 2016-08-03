@@ -1,0 +1,16 @@
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesSerialization\bin\Debug\ExercisesSerialization.exe.config
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesSerialization\bin\Debug\ExercisesSerialization.exe
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesSerialization\bin\Debug\ExercisesSerialization.pdb
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesSerialization\obj\Debug\ExercisesSerialization.exe
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesSerialization\obj\Debug\ExercisesSerialization.pdb
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesSerialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesSerialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesSerialization\obj\Debug\ExercisesSerialization.csprojResolveAssemblyReference.cache
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesSerialization\bin\Debug\ExercisesSerialization.exe.config
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesSerialization\bin\Debug\ExercisesSerialization.exe
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesSerialization\bin\Debug\ExercisesSerialization.pdb
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesSerialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesSerialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesSerialization\obj\Debug\ExercisesSerialization.csprojResolveAssemblyReference.cache
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesSerialization\obj\Debug\ExercisesSerialization.exe
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesSerialization\obj\Debug\ExercisesSerialization.pdb

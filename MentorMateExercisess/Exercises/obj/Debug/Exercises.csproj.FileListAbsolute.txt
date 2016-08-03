@@ -1,0 +1,12 @@
+C:\Users\daniel.donevski\Desktop\InternExercises\Exercises\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\daniel.donevski\Desktop\InternExercises\Exercises\Exercises\bin\Debug\Exercises.exe
+C:\Users\daniel.donevski\Desktop\InternExercises\Exercises\Exercises\bin\Debug\Exercises.pdb
+C:\Users\daniel.donevski\Desktop\InternExercises\Exercises\Exercises\obj\Debug\Exercises.csprojResolveAssemblyReference.cache
+C:\Users\daniel.donevski\Desktop\InternExercises\Exercises\Exercises\obj\Debug\Exercises.exe
+C:\Users\daniel.donevski\Desktop\InternExercises\Exercises\Exercises\obj\Debug\Exercises.pdb
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\Exercises\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\Exercises\Exercises\obj\Debug\Exercises.exe
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\Exercises\Exercises\obj\Debug\Exercises.pdb
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\Exercises\obj\Debug\Exercises.exe
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\Exercises\obj\Debug\Exercises.pdb

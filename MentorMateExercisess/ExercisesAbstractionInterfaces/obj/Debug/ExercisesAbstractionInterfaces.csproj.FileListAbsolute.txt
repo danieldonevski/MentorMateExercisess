@@ -1,0 +1,12 @@
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesAbstractionInterfaces\bin\Debug\ExercisesAbstractionInterfaces.exe.config
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesAbstractionInterfaces\bin\Debug\ExercisesAbstractionInterfaces.exe
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesAbstractionInterfaces\bin\Debug\ExercisesAbstractionInterfaces.pdb
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesAbstractionInterfaces\obj\Debug\ExercisesAbstractionInterfaces.exe
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesAbstractionInterfaces\obj\Debug\ExercisesAbstractionInterfaces.pdb
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesAbstractionInterfaces\obj\Debug\ExercisesAbstractionInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesAbstractionInterfaces\bin\Debug\ExercisesAbstractionInterfaces.exe.config
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesAbstractionInterfaces\bin\Debug\ExercisesAbstractionInterfaces.exe
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesAbstractionInterfaces\bin\Debug\ExercisesAbstractionInterfaces.pdb
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesAbstractionInterfaces\obj\Debug\ExercisesAbstractionInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesAbstractionInterfaces\obj\Debug\ExercisesAbstractionInterfaces.exe
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesAbstractionInterfaces\obj\Debug\ExercisesAbstractionInterfaces.pdb

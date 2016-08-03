@@ -1,0 +1,12 @@
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesReflection\bin\Debug\ExercisesReflection.exe.config
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesReflection\bin\Debug\ExercisesReflection.exe
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesReflection\bin\Debug\ExercisesReflection.pdb
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesReflection\obj\Debug\ExercisesReflection.csprojResolveAssemblyReference.cache
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesReflection\obj\Debug\ExercisesReflection.exe
+C:\Users\daniel.donevski\Source\Repos\MentorMateExercises\ExercisesReflection\obj\Debug\ExercisesReflection.pdb
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesReflection\bin\Debug\ExercisesReflection.exe.config
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesReflection\obj\Debug\ExercisesReflection.exe
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesReflection\obj\Debug\ExercisesReflection.pdb
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesReflection\bin\Debug\ExercisesReflection.exe
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesReflection\bin\Debug\ExercisesReflection.pdb
+C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\ExercisesReflection\obj\Debug\ExercisesReflection.csprojResolveAssemblyReference.cache
