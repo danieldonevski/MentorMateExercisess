@@ -13,8 +13,8 @@ namespace ExercisesAbstractionInterfaces
         {
             Driver driver = new Driver();
             driver.Command += OnCommand;
+            Console.WriteLine("Choose a vehicle(\"car\", \"truck\"):");
             driver.Run();
-
            
 
         }
@@ -26,20 +26,24 @@ namespace ExercisesAbstractionInterfaces
                 {
                     vehicleChoosen = true;
                     vehicle = (int)Vehicles.car;
+                    Console.WriteLine("Choose a command start/stop/accelerate/decelerate/new:");
                     
                 }
                 else if (command == "truck")
                 {
                     vehicleChoosen = true;
                     vehicle = (int)Vehicles.truck;
+                    Console.WriteLine("Choose a command start/stop/accelerate/decelerate/new:");
+
                 }
                 else
                 {
-                    Console.WriteLine("Choose a car");
+                    Console.WriteLine("Choose a vehicle(\"car\", \"truck\"):");
                 }
             }
             else
             {
+              
                 switch (vehicle)
                 {
                     case (int)Vehicles.car:
