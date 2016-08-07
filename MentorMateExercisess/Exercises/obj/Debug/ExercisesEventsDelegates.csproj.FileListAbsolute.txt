@@ -13,3 +13,6 @@ C:\Users\daniel donevski\Desktop\MentorMate\MentorMateExercises-master\Exercises
 C:\Users\daniel donevski\Source\Repos\MentorMateExercisess\MentorMateExercisess\Exercises\bin\Debug\Exercises.exe.config
 C:\Users\daniel donevski\Source\Repos\MentorMateExercisess\MentorMateExercisess\Exercises\obj\Debug\Exercises.exe
 C:\Users\daniel donevski\Source\Repos\MentorMateExercisess\MentorMateExercisess\Exercises\obj\Debug\Exercises.pdb
+C:\Users\daniel donevski\Source\Repos\MentorMateExercisess2.0\MentorMateExercisess\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\daniel donevski\Source\Repos\MentorMateExercisess2.0\MentorMateExercisess\Exercises\obj\Debug\Exercises.exe
+C:\Users\daniel donevski\Source\Repos\MentorMateExercisess2.0\MentorMateExercisess\Exercises\obj\Debug\Exercises.pdb
